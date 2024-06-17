@@ -49,5 +49,8 @@ public class CarInsurance extends Base{
 		exttest.log(Status.PASS, "Errors are obtained");
 		
 		Thread.sleep(1000);
+		Thread.sleep(1000);
+		Thread.sleep(1000);
+
 	}
 }
